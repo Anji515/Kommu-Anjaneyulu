@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mahindra Jayavaram </h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kommu Anajaneyulu </h1>
 <h3 align="center"> MERN Stack Web Developer</h3>
 
 <div align="center" ><img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" /></div>
@@ -9,9 +9,9 @@
 <!-- <p align="left"><img  src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg"/></p> -->
 
 ## ❤ Views and Followers
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahindra-jayavaram&label=Profile%20views&color=0e75b6&style=flat" alt="mahindra-jayavaram" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahindra-jayavaram&label=Profile%20views&color=0e75b6&style=flat" alt="Kommu-Anajaneyulu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mahindra_1999" target="blank"><img src="https://img.shields.io/twitter/follow/mahindra_1999?logo=twitter&style=for-the-badge" alt="mahindra_1999" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahindra_1999" target="blank"><img src="https://img.shields.io/twitter/follow/mahindra_1999?logo=twitter&style=for-the-badge" alt="Kommu-Anajaneyulu" /></a> </p>
 
 
 ## 🙋‍♂️ About Me
